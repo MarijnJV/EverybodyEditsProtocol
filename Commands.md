@@ -4,6 +4,7 @@
   - [/clear](#command-clear)
   - [/cleareffects /ce](#command-cleareffects)
   - [/forcefly](#command-forcefly)
+  - [/forgive](#command-forgive)
   - [/givecrown](#command-givecrown)
   - [/giveedit /gedit /ge](#command-giveedit)
   - [/giveeffect /geffect](#command-giveeffect)
@@ -75,6 +76,15 @@ NOTE: If player doesn't have flying privilegess he won't be able to leave flying
 Deactivate flying mode of player with the specified username.
 
 - `{username}` - Username of the player for who to activate or deactivate flying mode.
+
+___
+### <a id="command-forgive">/forgive</a>
+Forgive a player that you kicked.
+
+#### `/forgive {username}`
+Makes so the player can join directly after a kick.
+
+- `{username}` - Username of the player for which to forgive.
 
 ___
 ### <a id="command-givecrown">/givecrown</a>
