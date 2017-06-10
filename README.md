@@ -531,7 +531,8 @@ Occurs when the player initially joins the room.
 | `35`    | `Boolean`   | Minimap Enabled            | Value indicating whether the minimap is enabled in this world.
 | `36`    | `Boolean`   | Lobby Preview Enabled      | Value indicating whether the lobby preview is enabled in this world.
 | `37`    | `ByteArray` | Orange Switches            | Byte array with states of orange switches
-| `38`    | `String`    | ws                         | Indicates the start of the world data.
+| `38`    | `Boolean`   | FriendsOnly                | If the world is set to friends only
+| `39`    | `String`    | ws                         | Indicates the start of the world data.
 | `[...]` | `[...]`     | The serialized world data. | Indicates the world data.
 | `[...]` | `String`    | we                         | Indicates the end of the world data.
 
