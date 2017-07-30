@@ -1326,19 +1326,19 @@ Sent to un-like the world.
 | `2`   | Released
 
 ### <a id="model-effects">Effects</a>
-| Value | Effect
-| ----- | ------
-| `0`   | Jump
-| `1`   | Fly
-| `2`   | Speed
-| `3`   | Protection
-| `4`   | Curse
-| `5`   | Zombie
-| `6`   | Team
-| `7`   | Low Gravity
-| `8`   | Fire
-| `9`   | Multi Jump
-| `10`  | Gravity Effect
+| Value | Image | Effect
+| ----- | ------ | ------ 
+| `0`   | ![Jumpeffect](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/417.png) | Jump |
+| `1`   | ![Flyeffect](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/418.png) | Fly |
+| `2`   | ![Speedeffect](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/419.png) | Speed |
+| `3`   | ![Protectioneffect](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/420.png) | Protection |
+| `4`   | ![Curseeffect](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/421.png) | Curse |
+| `5`   | ![Zombieeffect](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/422.png) | Zombie |
+| `6`   | ![Teameffect](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/420.png) | Team |
+| `7`   | ![LowGravityeffect](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/453.png) | Low Gravity |
+| `8`   | Fire | fire |
+| `9`   | ![MultiJumpeffect](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/461.png) | Multi Jump |
+| `10`  | ![Gravityeffect](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/1517.png) | Gravity Effect |
 
 ### <a id="model-keys">Key names</a>
 
