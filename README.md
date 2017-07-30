@@ -1342,13 +1342,12 @@ Sent to un-like the world.
 
 ### <a id="model-keys">Key names</a>
 
-- ![red](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/6.png) red
-- green
-- blue
-- cyan
-- magenta
-- yellow
-- timedoor
+- ![Keyred](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/6.png) red
+- ![Keygreen](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/7.png) green
+- ![Keyblue](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/8.png) blue
+- ![Keycyan](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/408.png) cyan
+- ![Keymagenta](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/409.png) magenta
+- ![Keyyellow](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/410.png) yellow
 
 ### <a id="model-teams">Teams</a>
 
