@@ -1342,7 +1342,7 @@ Sent to un-like the world.
 
 ### <a id="model-keys">Key names</a>
 
-- red
+- ![red](https://github.com/capasha/EverybodyEditsProtocol/blob/master/images/6.png) red
 - green
 - blue
 - cyan
